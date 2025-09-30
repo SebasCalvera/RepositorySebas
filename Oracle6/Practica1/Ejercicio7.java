@@ -1,4 +1,4 @@
-package Practica1;
+package Oracle6.Practica1;
 
 import java.util.Scanner;
 

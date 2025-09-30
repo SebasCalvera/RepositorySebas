@@ -1,8 +1,8 @@
-package Practica1;
+package Oracle6.Practica1;
 
 import java.util.Scanner;
 
-public class Matrices {
+public class Ejercicio8 {
     static int[][] A = new int[2][2];
     static int[][] B = new int[2][2];
 

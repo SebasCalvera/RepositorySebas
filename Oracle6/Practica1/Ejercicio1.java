@@ -1,4 +1,6 @@
-public class Practica1 {
+package Oracle6.Practica1;
+
+public class Ejercicio1 {
 
 
     public static void main(String[] args) {
@@ -26,14 +28,21 @@ public class Practica1 {
 }
  
  /*
-        int num[] = {7,7,6,6,5,5,4,4};
+
+
+ //5. Sin escribir el código, determine el resultado del siguiente programa
+      
+ int num[] = {7,7,6,6,5,5,4,4};
         for(int i = 0; i < 8; i = i + 2)
         System.out.print(num[i]);
  
         Resultado: 7654
         */
  
-        /*
+
+       // 6. Sin escribir el código, determine el resultado del siguiente programa.
+       
+       /*
         int[][] num = {{3,3,3},{2,2,2}};
         int[] array = {4,3,2};
         for(int i = 0; i < 3; i++){
@@ -46,7 +55,6 @@ public class Practica1 {
         System.out.println();
         }
        
- 
  
         Resultado: 333 - 765
  

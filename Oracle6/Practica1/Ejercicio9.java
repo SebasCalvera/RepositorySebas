@@ -1,3 +1,5 @@
+package Oracle6.Practica1;
+
 import java.util.*;
 
 public class Ejercicio9 {

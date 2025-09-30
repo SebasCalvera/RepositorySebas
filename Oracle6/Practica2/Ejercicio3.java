@@ -1,3 +1,5 @@
+package Oracle6.Practica2;
+
 public class Ejercicio3 {
     public static void main(String[] args) {
         try {
@@ -11,4 +13,3 @@ public class Ejercicio3 {
 }
 
         
-
